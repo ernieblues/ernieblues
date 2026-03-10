@@ -1,16 +1,29 @@
-## Hi there 👋
+# Ernest Guagliata
 
-<!--
-**ernieblues/ernieblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer experienced in developing data-driven applications and engineering systems using C#/.NET, SQL Server, Python, PyQt, and C++.
 
-Here are some ideas to get you started:
+Background includes relational database design, SQL development, engineering automation, and software supporting instrumentation, data acquisition, and operational workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience spans engineering environments where software interfaces with real hardware systems, including automated testing, database-driven applications, and desktop tools for engineering teams.
+
+## Technologies
+
+C# / .NET  
+SQL Server  
+Python / PyQt  
+C++ (embedded systems)  
+ASP.NET Core  
+Entity Framework  
+Git
+
+## Focus Areas
+
+- Data-driven applications
+- Engineering automation
+- Database design
+- Instrumentation and data acquisition
+- Desktop engineering tools
+
+## Links
+
+LinkedIn: https://linkedin.com/in/ernieblues
