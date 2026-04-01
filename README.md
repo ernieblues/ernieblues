@@ -1,28 +1,26 @@
 # Ernest Guagliata
 
-Software engineer experienced in developing data-driven applications and engineering systems using C#/.NET, SQL Server, Python, PyQt, and C++.
+Full-stack software engineer specializing in data-driven applications and engineering automation. 
+Experience spans relational database design, backend development, desktop GUI tools, 
+and software that interfaces with real hardware — instrumentation, data acquisition, 
+and automated testing systems.
 
-Background includes relational database design, SQL development, engineering automation, and software supporting instrumentation, data acquisition, and operational workflows.
+## Tech Stack
 
-Experience spans engineering environments where software interfaces with real hardware systems, including automated testing, database-driven applications, and desktop tools for engineering teams.
-
-## Technologies
-
-C# / .NET  
-SQL Server  
+C# / .NET | ASP.NET Core | Entity Framework  
 Python / PyQt  
+React / TypeScript  
+SQL Server  
 C++ (embedded systems)  
-ASP.NET Core  
-Entity Framework  
 Git
 
 ## Focus Areas
 
-- Data-driven applications
-- Engineering automation
-- Database design
+- Data-driven applications and database design
+- Engineering automation and operational workflows
 - Instrumentation and data acquisition
 - Desktop engineering tools
+- Web and API development
 
 ## Links
 
